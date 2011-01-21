@@ -1,0 +1,11 @@
+README
+-------------------
+Ben Wright (bwright.uberwolf.com)
+BreakBouncer is a unique Breakout clone mixed with a pong clone which exlores
+basic artificial intellegence and is written in C with SDL. It is designed to
+be used as an educational tool for people getting involved in game development
+who are looking for real examples of how to develop games. Currently it
+only supports mac and linux builds and I don't have the tools avaliable to me
+to continue to maintain the mac builds. If anyone is interested in maintaining
+either of those make files (for windows or mac) then please get in contact with
+me. Other then that the code is completely functional and I hope you enjoy.
