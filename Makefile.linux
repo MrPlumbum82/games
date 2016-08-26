@@ -1,2 +1,2 @@
 all:
-	gcc main.c -o BreakBouncer -O3 `sdl-config --cflags --libs`
+	gcc breakbouncer.c -o BreakBouncer -O3 `sdl-config --cflags --libs`
