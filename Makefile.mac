@@ -1,3 +1,3 @@
 all:
-	gcc main.c -o BreakBouncer -O3 -I/opt/local/include/SDL -D_GNU_SOURCE=1 -D_THREAD_SAFE -L/opt/local/lib -lSDLmain -lSDL -Wl,-framework,Cocoa
+	gcc breakbouncer.c -o BreakBouncer -O3 -I/opt/local/include/SDL -D_GNU_SOURCE=1 -D_THREAD_SAFE -L/opt/local/lib -lSDLmain -lSDL -Wl,-framework,Cocoa
 
